@@ -1,0 +1,3 @@
+You have to install all the Dependencies by your own and by seeing package.json folder .
+also Create .ENV file connect your Database path to it.
+thank you.....
